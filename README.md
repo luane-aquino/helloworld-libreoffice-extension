@@ -2,7 +2,7 @@
 Hello world LibreOffice extension - works on the LibreOffice Calc. 
 
 <div align="left">
-  <img src="screenshots.png">
+  <img src="">
 </div>
 
 ## How to install
