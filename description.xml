@@ -8,16 +8,13 @@
         	<default xlink:href="icons/image_42.png" />
     	</icon>
 	<version value="1.0"/>
-	<!-- <dependencies>
-		<OpenOffice.org-minimal-version value="2.1" dep:name="OpenOffice.org 2.1"/>
-	</dependencies> -->
 	<registration>
 		<simple-license  accept-by="admin" default-license-id="ID0" suppress-on-update="true" >
 			<license-text xlink:href="registration/license.txt" lang="en" license-id="ID0" />
 		</simple-license>
 	</registration>
      <publisher>
-	      <name xlink:href="mailto:luanecaroline91@gmail.com">Luane Aquino</name>
+	      <name xlink:href="mailto:youremail@smt.com">Your Name</name>
       </publisher>
        <display-name>
             <name>Hello World</name>
