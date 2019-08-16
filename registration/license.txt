@@ -1,5 +1,5 @@
 All trademarks and registered trademarks mentioned herein are the property of their respective owners.  
-Copyright (c) 2019 Luane Aquino. All rights reserved.
+Copyright (c) 2019 Your Name. All rights reserved.
 
 		   GNU LESSER GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
