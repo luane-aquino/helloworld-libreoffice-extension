@@ -3,6 +3,6 @@
 <script:module xmlns:script="http://openoffice.org/2000/script" script:name="Module1" script:language="StarBasic" script:moduleType="normal">REM  *****  BASIC  *****
 
 Sub HelloWorldMacro
-	Print &quot;Hello World!!&quot;
+	Print &quot;Hello, World!&quot;
 End Sub
 </script:module>
