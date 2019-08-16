@@ -1,5 +1,5 @@
 # helloworld-libreoffice-extension
-Hello World LibreOffice extension - Adds a button to standand toolbar of LibreOffice Calc, when button is clicked, a dialog with "Hello, World!" shows.
+Hello World LibreOffice extension (helloworld.oxt) - Adds a button to standand toolbar of LibreOffice Calc, when button is clicked, a dialog with "Hello, World!" shows.
 
 <div align="center">
   <img src="result.png">
